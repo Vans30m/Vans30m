@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Fitness Planet.<br>🌿 I'm currently learning Web3.
+🔭 I'm currently working on Fitness Planet.<br>🌿 I'm currently learning Java.
 
 
 ## 🌐 Socials:
