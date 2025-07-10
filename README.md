@@ -1,4 +1,4 @@
-<div align:"center" >
+<div align="center" >
 # 💫 About Me:
 🔭 I'm currently working on Fitness Planet.<br>
 🌿 I'm currently learning Java.<br/><br/>
