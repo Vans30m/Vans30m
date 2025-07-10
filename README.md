@@ -1,3 +1,4 @@
+<div> align:"center"
 # 💫 About Me:
 🔭 I'm currently working on Fitness Planet.<br>
 🌿 I'm currently learning Java.<br/><br/>
@@ -30,3 +31,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Vans30m&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
