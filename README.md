@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Hello" /> </p>
 <h1 align="center">Hello Codders <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Vansh Thakur </h1>
-<div align="center" >
-💫 About Me:
+<div align="center" ><br/>
+💫 About Me:<br/>
 🔭 I'm currently working on FocusoraHQ<br>
 🌿 I'm currently learning Java.<br/><br/>
 
