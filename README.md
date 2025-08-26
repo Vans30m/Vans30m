@@ -1,9 +1,33 @@
 <p align="center"> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Hello" /> </p>
 <h1 align="center">Hello Codders <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Vansh Thakur </h1>
+
 <div align="center" ><br/>
 💫 About Me:<br/>
 🔭 I'm currently working on FocusoraHQ<br>
 🌿 I'm currently learning Java.<br/><br/>
+
+![API Gateway Banner](https://raw.githubusercontent.com/Cloud-Hustlers/content/f9a8642976ea21cd234c91239431e41f05264842/gif/12.gif)
+
+<div align="center">
+  
+# Connect with Me !!
+</div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/vansh-thakur-b6bbbb33a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Cloud-Hustlers/content/main/gif/linkedin%20gif.gif" alt="LinkedIn" width="80">
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/Cloud-Hustlers/content/main/gif/youtube.png" alt="Youtube" width="80">
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/Cloud-Hustlers/content/main/gif/insta.gif" alt="Instagram" width="80">
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/Cloud-Hustlers/content/main/gif/discord.gif" alt="GitHub" width="80">
+  </a>
+</p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vansh-thakur-b6bbbb33a/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vthakur.290905@gmail.com)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30742615)  [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Vansh-Thakur-593)<br/><br/>
