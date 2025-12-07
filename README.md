@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-  <a href="www.linkedin.com/in/vansh-thakur-b6bbbb33a" target="_blank">
+  <a href="https://www.linkedin.com/in/vansh-thakur-vans30m/" target="_blank">
     <img src="https://raw.githubusercontent.com/Cloud-Hustlers/content/main/gif/linkedin%20gif.gif" alt="LinkedIn" width="80">
   </a>
   <a href="#" target="_blank">
