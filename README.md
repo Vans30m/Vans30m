@@ -29,7 +29,7 @@
 </p>
 
 
-## 🌐 Socials:
+## 🌐 Social Handles:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/vansh-thakur-b6bbbb33a)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vthakur.290905@gmail.com)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30742615)  [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Vansh-Thakur-593)<br/><br/>
 
 # 💻 Tech Stack:
